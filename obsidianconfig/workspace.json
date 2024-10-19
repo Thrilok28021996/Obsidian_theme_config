@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "1553e8808953022c",
+    "type": "split",
+    "children": [
+      {
+        "id": "07fb7a2520821b90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ae55d92d9b84211",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15f504cfc38bec12",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b95a206cba7d3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9cd0407290bb9a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "415ddb1056d78ab7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa46cbfaa80e5e26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6301a6711779f877",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b7b33f3cf494eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f27f14e8e28dc795",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d539fc29f542d4f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0076894f5baa5bc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2fc4384b31435843",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f31df0fceff61f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "2ae55d92d9b84211",
+  "lastOpenFiles": [
+    "obsidian theme/themes/AnuPpuccin/theme.css",
+    "obsidian theme/themes/AnuPpuccin/manifest.json",
+    "obsidian theme/plugins/obsidian-tasks-plugin/styles.css",
+    "obsidian theme/plugins/obsidian-tasks-plugin/manifest.json",
+    "obsidian theme/plugins/obsidian-tasks-plugin/main.js",
+    "obsidian theme/plugins/obsidian-tasks-plugin/data.json",
+    "obsidian theme/plugins/obsidian-style-settings/styles.css",
+    "obsidian theme/plugins/obsidian-style-settings/manifest.json",
+    "obsidian theme/plugins/obsidian-style-settings/main.js",
+    "obsidian theme/plugins/obsidian-style-settings/data.json",
+    "obsidian theme/plugins/obsidian-projects/styles.css",
+    "Books/Books about Money.md",
+    "Books/quotes.md",
+    "nvim cheatsheet.md",
+    "Books/Rich Dad.md",
+    "Books/MLOPS/END-END/MLops End-End.canvas",
+    "Books/MLOPS/Table of contents.md",
+    "Books/MLOPS/END-END/Introduction to mlops.md",
+    "Books/MLOPS/Introduction to MLops.md",
+    "Books/DSA/chapter 1.md",
+    "Books/my cashflow.canvas",
+    "BLOGS/Forecasting.md",
+    "BLOGS/AGI.md",
+    "Projects/EDA_Preprocessing/outline.md",
+    "Projects/Data Analysis for hospitals/Data Analysis.md",
+    "Projects/Data Analysis for hospitals/Outline.canvas",
+    "Projects/Data Analysis for hospitals/Requirements.md",
+    "Projects/Grammerly_poc/Requirements.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects/To do list of projects.md",
+    "Projects/ideas/Cybersecurity.md",
+    "obsidian templates/Project Template.md",
+    "obsidian templates/Daily Notes.md",
+    "obsidian templates/OKR (Objectives and Key Results).md",
+    "obsidian templates/Eisenhower Matrix.md",
+    "Books/MLOPS/canvas_1.canvas"
+  ]
+}
